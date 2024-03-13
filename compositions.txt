@@ -1,0 +1,40 @@
+Name: Never gonna give you up
+Tempo: Allegro
+Length: 36
+Piano, soft, {A3, B3, D4, B3, F#4, none, F#4, none, E4, none, A3, B3, D4, B3, E4, none, E4, none, D4, none, none, A3, B3, D4, B3, D4, none, E4, C#4, none, A3, none, A3, E4, none, D4}
+Violin, loud, {A3, B3, D4, B3, F#4, none, F#4, none, E4, none, A3, B3, D4, B3, E4, none, E4, none, D4, none, none, A3, B3, D4, B3, D4, none, E4, C#4, none, A3, none, A3, E4, none, D4}
+Piano, loud, {A3, B3, D4, B3, F#4, none, F#4, none, E4, none, A3, B3, D4, B3, E4, none, E4, none, D4, none, none, A3, B3, D4, B3, D4, none, E4, C#4, none, A3, none, A3, E4, none, D4}
+Cello, soft, {A3, B3, D4, B3, F#4, none, F#4, none, E4, none, A3, B3, D4, B3, E4, none, E4, none, D4, none, none, A3, B3, D4, B3, D4, none, E4, C#4, none, A3, none, A3, E4, none, D4}
+Violin, soft, {A3, B3, D4, B3, F#4, none, F#4, none, E4, none, A3, B3, D4, B3, E4, none, E4, none, D4, none, none, A3, B3, D4, B3, D4, none, E4, C#4, none, A3, none, A3, E4, none, D4}
+Violin, soft, {A3, B3, D4, B3, F#4, none, F#4, none, E4, none, A3, B3, D4, B3, E4, none, E4, none, D4, none, none, A3, B3, D4, B3, D4, none, E4, C#4, none, A3, none, A3, E4, none, D4}
+Cello, soft, {A3, B3, D4, B3, F#4, none, F#4, none, E4, none, A3, B3, D4, B3, E4, none, E4, none, D4, none, none, A3, B3, D4, B3, D4, none, E4, C#4, none, A3, none, A3, E4, none, D4}
+Cello, loud, {A3, B3, D4, B3, F#4, none, F#4, none, E4, none, A3, B3, D4, B3, E4, none, E4, none, D4, none, none, A3, B3, D4, B3, D4, none, E4, C#4, none, A3, none, A3, E4, none, D4}
+Piano, soft, {A3, B3, D4, B3, F#4, none, F#4, none, E4, none, A3, B3, D4, B3, E4, none, E4, none, D4, none, none, A3, B3, D4, B3, D4, none, E4, C#4, none, A3, none, A3, E4, none, D4}
+Violin, soft, {A3, B3, D4, B3, F#4, none, F#4, none, E4, none, A3, B3, D4, B3, E4, none, E4, none, D4, none, none, A3, B3, D4, B3, D4, none, E4, C#4, none, A3, none, A3, E4, none, D4}
+Violin, soft, {A3, B3, D4, B3, F#4, none, F#4, none, E4, none, A3, B3, D4, B3, E4, none, E4, none, D4, none, none, A3, B3, D4, B3, D4, none, E4, C#4, none, A3, none, A3, E4, none, D4}
+Violin, loud, {A3, B3, D4, B3, F#4, none, F#4, none, E4, none, A3, B3, D4, B3, E4, none, E4, none, D4, none, none, A3, B3, D4, B3, D4, none, E4, C#4, none, A3, none, A3, E4, none, D4}
+Cello, soft, {A3, B3, D4, B3, F#4, none, F#4, none, E4, none, A3, B3, D4, B3, E4, none, E4, none, D4, none, none, A3, B3, D4, B3, D4, none, E4, C#4, none, A3, none, A3, E4, none, D4}
+Piano, soft, {A3, B3, D4, B3, F#4, none, F#4, none, E4, none, A3, B3, D4, B3, E4, none, E4, none, D4, none, none, A3, B3, D4, B3, D4, none, E4, C#4, none, A3, none, A3, E4, none, D4}
+Violin, loud, {A3, B3, D4, B3, F#4, none, F#4, none, E4, none, A3, B3, D4, B3, E4, none, E4, none, D4, none, none, A3, B3, D4, B3, D4, none, E4, C#4, none, A3, none, A3, E4, none, D4}
+Cello, soft, {A3, B3, D4, B3, F#4, none, F#4, none, E4, none, A3, B3, D4, B3, E4, none, E4, none, D4, none, none, A3, B3, D4, B3, D4, none, E4, C#4, none, A3, none, A3, E4, none, D4}
+Cello, soft, {A3, B3, D4, B3, F#4, none, F#4, none, E4, none, A3, B3, D4, B3, E4, none, E4, none, D4, none, none, A3, B3, D4, B3, D4, none, E4, C#4, none, A3, none, A3, E4, none, D4}
+Name: Happy Birthday to You
+Tempo: Moderato
+Length: 48
+Violin, loud, {C4, C4, D4, none, C4, none, F4, none, E4, none, none, none, C4, C4, D4, none, C4, none, G4, none, F4, none, none, none, C4, C4, C5, none, A4, none, F4, none, E4, none, D4, none, Bb4, Bb4, A4, none, F4, none, G4, none, F4, none, none, none}
+Violin, soft, {C4, C4, D4, none, C4, none, F4, none, E4, none, none, none, C4, C4, D4, none, C4, none, G4, none, F4, none, none, none, C4, C4, C5, none, A4, none, F4, none, E4, none, D4, none, Bb4, Bb4, A4, none, F4, none, G4, none, F4, none, none, none}
+Violin, loud, {C4, C4, D4, none, C4, none, F4, none, E4, none, none, none, C4, C4, D4, none, C4, none, G4, none, F4, none, none, none, C4, C4, C5, none, A4, none, F4, none, E4, none, D4, none, Bb4, Bb4, A4, none, F4, none, G4, none, F4, none, none, none}
+Cello, soft, {C4, C4, D4, none, C4, none, F4, none, E4, none, none, none, C4, C4, D4, none, C4, none, G4, none, F4, none, none, none, C4, C4, C5, none, A4, none, F4, none, E4, none, D4, none, Bb4, Bb4, A4, none, F4, none, G4, none, F4, none, none, none}
+Cello, loud, {C4, C4, D4, none, C4, none, F4, none, E4, none, none, none, C4, C4, D4, none, C4, none, G4, none, F4, none, none, none, C4, C4, C5, none, A4, none, F4, none, E4, none, D4, none, Bb4, Bb4, A4, none, F4, none, G4, none, F4, none, none, none}
+Name: Simple
+Tempo: Lento
+Length: 7
+Piano, loud, {G4, G4, G4, D4, E4, E4, D4}
+Violin, soft, {G4, G4, G4, D4, E4, E4, D4}
+Violin, loud, {G4, G4, G4, D4, E4, E4, D4}
+Name: Bubbles
+Tempo: Andante
+Length: 17
+Piano, loud, {G4, F4, G4, F4, G4, F4, G4, F4, G4,none, none, G4, F4, G4, F4, G4, G4}
+Violin, soft, {G4, F4, G4, F4, G4, F4, G4, F4, G4,none, none, G4, F4, G4, F4, G4, G4}
+Violin, loud, {G4, F4, G4, F4, G4, F4, G4, F4, G4,none, none, G4, F4, G4, F4, G4, G4}
