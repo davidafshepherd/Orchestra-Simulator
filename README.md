@@ -1,6 +1,6 @@
 - 'Orchestra Simulator' is the project directory.
 - 'Musicians' contains a text file:
-  - 'musicians.txt' contains 18 sample musicians.
+  - 'Musicians.txt' contains 18 sample musicians.
 - 'Compositions' contains 2 text files and a directory:
   - 'SampleCompositions.txt' contains 4 sample compositions.
   - 'GlimpseOfUs.txt' contains the song 'Glimpse of Us' by Joji as a composition.
