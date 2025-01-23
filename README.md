@@ -9,4 +9,7 @@
 - To run the project, run 'java EcsBandAid musicians compositions years' in the command prompt:
   1. 'musicians' is the path to the text file containing a set of musicians.
   2. 'compositions' is the path to the text file containing a set of compositions.
-  3. 'years' is the number of times the orchestra performs, note that each performance plays 3 compositions.
+  3. 'years' is the number of times the orchestra performs, note that each performance plays 3 compositions. <br><br>
+
+
+https://github.com/user-attachments/assets/e6bd224b-8802-407b-bb1a-609ce1b676d7
