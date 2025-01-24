@@ -1,4 +1,4 @@
-- [src](src) is the source code.
+- [src](src) contains the source code.
 - [musicians](src/main/resources/musicians) contains a text file:
   - [Musicians.txt](src/main/resources/musicians/Musicians.txt) contains 18 sample musicians.
 - [compositions](src/main/resources/compositions) contains 2 text files and a directory:
