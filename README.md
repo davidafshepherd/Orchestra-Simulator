@@ -1,10 +1,10 @@
-- 'src' is the source code.
-- 'Musicians' contains a text file:
-  - 'Musicians.txt' contains 18 sample musicians.
-- 'Compositions' contains 2 text files and a directory:
-  - 'SampleCompositions.txt' contains 4 sample compositions.
-  - 'GlimpseOfUs.txt' contains the song 'Glimpse of Us' by Joji as a composition.
-  - 'More Compositions' contains 48 text files, each of which contains a single composition. <br><br>
+- [src](src) is the source code.
+- [musicians](src/main/resources/musicians) contains a text file:
+  - [Musicians.txt](src/main/resources/musicians/Musicians.txt) contains 18 sample musicians.
+- [compositions](src/main/resources/compositions) contains 2 text files and a directory:
+  - [SampleCompositions.txt](src/main/resources/compositions/SampleCompositions.txt) contains 4 sample compositions.
+  - [GlimpseOfUs.txt](src/main/resources/compositions/GlimpseOfUs.txt) contains the song 'Glimpse of Us' by Joji as a composition.
+  - [more-compositions](src/main/resources/compositions/more-compositions) contains 48 text files, each of which contains a single composition. <br><br>
 - To compile the project, run 'javac EcsBandAid.java' in the command prompt. 
 - To run the project, run 'java EcsBandAid musicians compositions years' in the command prompt:
   1. 'musicians' is the path to the text file containing a set of musicians.
