@@ -1,4 +1,4 @@
-- 'Orchestra-Simulator' is the project directory.
+- 'src' is the source code.
 - 'Musicians' contains a text file:
   - 'Musicians.txt' contains 18 sample musicians.
 - 'Compositions' contains 2 text files and a directory:
