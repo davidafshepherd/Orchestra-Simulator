@@ -1,0 +1,4 @@
+Name: "Auld Lang Syne"
+Tempo: Moderato
+Length: 102
+Piano , loud , { C4 , none , F4 , none , E4 , F4 , none , A4 , none , G4 , none , F4 , G4 , none , A4 , none , F4 , none , F4 , A4 , none , C5 , none , D5 , none , none , D5 , none , C5 , none , A4 , A4 , none , F4 , none , G4 , none , F4 , G4 , none , A4 , G4 , F4 , none , D4 , D4 , none , C4 , none , F4 , none , none , D5 , none , C5 , none , A4 , A4 , none , F4 , none , G4 , none , F4 , G4 , none , D5 , none , C5 , none , A4 , A4 , none , C5 , none , D5 , none , none , F5 , none , C5 , none , A4 , A4 , none , F4 , none , G4 , none , F4 , G4 , none , A4 , G4 , F4 , none , D4 , D4 , none , C4 , none , F4 }
